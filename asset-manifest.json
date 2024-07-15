@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Pawgo-Service-React2/static/css/main.47afb8ab.css",
+    "main.js": "/Pawgo-Service-React2/static/js/main.b88349c2.js",
+    "static/js/453.9c6ca510.chunk.js": "/Pawgo-Service-React2/static/js/453.9c6ca510.chunk.js",
+    "static/media/hero1.png": "/Pawgo-Service-React2/static/media/hero1.4d337fa8d6a568f594ec.png",
+    "static/media/3.png": "/Pawgo-Service-React2/static/media/3.0b8baf33b36ede4225df.png",
+    "static/media/1.png": "/Pawgo-Service-React2/static/media/1.375a59f3d10b904ff978.png",
+    "static/media/2.png": "/Pawgo-Service-React2/static/media/2.127c71a7ece01e7262a2.png",
+    "static/media/service2.png": "/Pawgo-Service-React2/static/media/service2.32ec446b8b59d23313ba.png",
+    "static/media/service1.png": "/Pawgo-Service-React2/static/media/service1.d42de208789f8197c12c.png",
+    "static/media/service3.png": "/Pawgo-Service-React2/static/media/service3.7bce160d37a1fd5bbb1e.png",
+    "static/media/logo-transparent.png": "/Pawgo-Service-React2/static/media/logo-transparent.f573a4a22c97a92316d7.png",
+    "static/media/about.jpg": "/Pawgo-Service-React2/static/media/about.8733f1fc4cf2d7f84ddf.jpg",
+    "static/media/Untitled_design-removebg-preview.png": "/Pawgo-Service-React2/static/media/Untitled_design-removebg-preview.d2764528200035e27c11.png",
+    "static/media/user-login-icon-removebg-preview.png": "/Pawgo-Service-React2/static/media/user-login-icon-removebg-preview.c6ebc6bbb95099466145.png",
+    "index.html": "/Pawgo-Service-React2/index.html",
+    "main.47afb8ab.css.map": "/Pawgo-Service-React2/static/css/main.47afb8ab.css.map",
+    "main.b88349c2.js.map": "/Pawgo-Service-React2/static/js/main.b88349c2.js.map",
+    "453.9c6ca510.chunk.js.map": "/Pawgo-Service-React2/static/js/453.9c6ca510.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47afb8ab.css",
+    "static/js/main.b88349c2.js"
+  ]
+}
